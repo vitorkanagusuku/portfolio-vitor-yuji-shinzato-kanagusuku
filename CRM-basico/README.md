@@ -55,3 +55,14 @@ crm-minimalista/
 ├── index.html
 ├── style.css
 └── script.js
+
+🧩 Estrutura do MER
+📦 Entidade: Contato
+id (PK)
+nome
+telefone
+📦 Entidade: Mensagem
+id (PK)
+conteudo
+data_hora
+contato_id (FK)
