@@ -12,6 +12,64 @@ O **EscapeCall Web** é uma aplicação web inovadora que transforma chamadas de
 
 ---
 
+## 📋 Briefing Original
+
+### Objetivo do Projeto
+Desenvolver um app inovador de videoconferência focado em **EXPERIÊNCIAS INTERATIVAS EM GRUPO**.
+
+### Ideia do Projeto
+**"Escape Room Online (EscapeCall)"** — Um aplicativo onde a videoconferência é o centro para resolver enigmas em grupo.
+
+### Funcionalidades Principais Solicitadas
+- Usuários criam ou entram em salas de jogo
+- Videoconferência integrada via Jitsi Meet
+- Sistema de desafios/enigmas exibidos na tela
+- Timer regressivo para completar o desafio
+- Sistema de dicas (limitadas)
+- Pontuação baseada no tempo
+
+### Integração Jitsi
+- Criar salas automaticamente com nome único
+- Permitir múltiplos participantes
+- Interface embutida no app
+- Suporte a câmera e microfone
+
+### Diferenciais Essenciais
+- Overlay com enigmas durante a chamada
+- Sistema de progresso do grupo
+- Feedback visual (acertou/errou)
+- Interface gamificada (cores, animações leves)
+- Sons simples para ações (opcional)
+
+### Telas do App
+1. **Tela inicial** (Criar sala / Entrar)
+2. **Lobby** (aguardando jogadores)
+3. **Tela da chamada com jogo ativo**
+4. **Tela de resultado final** (tempo e pontuação)
+
+### UX/UI Requisitada
+- Design moderno e divertido
+- Elementos visuais claros e intuitivos
+- Layout adaptado para celular
+- Uso de Material Design
+
+### Arquitetura Requisitada
+- Seguir padrão MVVM (para versão Android)
+- Código limpo e organizado
+- Separação de lógica de jogo e videoconferência
+
+### Extras Solicitados
+- Simular pelo menos 3 enigmas simples (lógica ou texto)
+- Incluir contagem regressiva funcional
+- Preparar projeto para gerar APK
+- Código pronto para GitHub
+- Comentários explicativos
+
+### Resultado Final Esperado
+Aplicativo funcional, criativo e diferenciado, pronto para apresentação acadêmica com alto nível de qualidade.
+
+---
+
 ## 🎯 Proposta de Valor
 
 As videoconferências tradicionais costumam ser passivas e, muitas vezes, monótonas. O **EscapeCall Web** propõe uma nova forma de interação:
